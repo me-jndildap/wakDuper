@@ -56,9 +56,6 @@
 ## Contributing
 We welcome contributions and suggestions! Feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/me-jndildap/wakDuper?tab=License-1-ov-file) file for details.
-
 ## Links
 - Minecraft Protocol Information: [wiki.vg/Protocol](https://wiki.vg/Protocol)
 
