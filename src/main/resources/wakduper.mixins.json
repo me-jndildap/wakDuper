@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.jndildap.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientConnectionMixin",
+    "SplashTextResourceSupplierMixin",
+    "screen.AbstractSignEditScreenMixin",
+    "screen.BookScreenMixin",
+    "screen.ChatScreenMixin",
+    "screen.HandledScreenMixin",
+    "screen.VideoOptionsScreenMixin",
+    "sodium.SodiumGameOptionPagesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

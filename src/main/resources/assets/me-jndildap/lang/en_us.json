@@ -1,0 +1,14 @@
+{
+  "wakduper.key.restoreScreen": "Restore Screen",
+  "wakduper.format": "wakDuper Layout",
+  "wakduper.format.default": "Default",
+  "wakduper.format.topright":  "Top Right",
+  "wakduper.format.bottomleft":  "Bottom Left",
+  "wakduper.format.bottomright":  "Bottom Right",
+  "wakduper.format.disabled":  "Disabled",
+  "wakduper.format.tooltip":  "Flip through this option to change the layout of wakDuper GUI buttons.",
+  "wakduper.overlay": "Slot Overlay",
+  "wakduper.overlay.tooltip": "Disabling this option will remove the slot overlay from your screen. Enabling it again will bring the overlay back.",
+  "wakduper.json": "Copy Json Name",
+  "wakduper.json.tooltip": "With this enabled, pressing \"Get Name\" will copy the container's JSON opposed to it's default text."
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wakduper",
+  "version": "${version}",
+  "name": "wakDuper",
+  "description": "Super useful addons for duping/hunting.",
+  "authors": [
+    "me-jndildap",
+	"wakatel"
+  ],
+  "contact": {
+    "discord": "https://discord.com/users/955006635917602816",
+    "sources": "https://github.com/me-jndildap",
+    "issues": "https://discord.com/users/955006635917602816"
+  },
+  "license": "ARR",
+  "icon": "assets/me-jndildap/wakDuper.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.jndildap.WakDuper"
+    ]
+  },
+  "mixins": [
+    "wakduper.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}
