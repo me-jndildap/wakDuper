@@ -47,6 +47,7 @@
 ### 11. PaperMC Dupe (v1.20.6 - v1.21.1)
 - **Functionality**: Exploits a known dupe method involving books and quills on PaperMC servers.
 - **Usage**: Limited to specific server versions, this dupe method may still work under certain configurations.
+- **Fix**: [me-jndildap/BookExploitFix](https://github.com/me-jndildap/BookExploitFix)
 
 ## Installation
 1. Download the latest version of the wakDuper mod from [Releases](https://github.com/me-jndildap/wakDuper/releases).
